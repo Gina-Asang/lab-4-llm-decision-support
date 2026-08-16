@@ -1,1 +1,4 @@
-openai python-dotenv pandas matplotlib
+openai 
+python-dotenv
+pandas 
+matplotlib
